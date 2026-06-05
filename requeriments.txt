@@ -1,4 +1,0 @@
-z3-solver
-python-dotenv
-requests
-ollama
