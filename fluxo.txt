@@ -1,0 +1,43 @@
+                 main.py
+
+                     │
+
+         ┌───────────┴───────────┐
+
+         ▼                       ▼
+
+Configura premissas      Configura LLM
+
+         │                       │
+
+         └───────────┬───────────┘
+
+                     ▼
+
+         Exibe configurações
+
+                     │
+
+                     ▼
+
+                Menu principal
+
+      ┌──────────────┼──────────────┐
+
+      ▼              ▼              ▼
+
+   Puzzle        LLM + Z3      Benchmark
+
+      │              │              │
+
+      ▼              ▼              ▼
+
+ generate      solve_with_llm   run_benchmark
+
+      │              │              │
+
+      └──────────────┴──────────────┘
+
+                     ▼
+
+               Resultado
